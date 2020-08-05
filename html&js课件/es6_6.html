@@ -1,0 +1,21 @@
+<script>
+    // ES6 class
+    class User {
+        constructor(username) {
+            this.username = username;
+            document.write(this.username + ' is created.<br/>');
+        }
+        logging() {
+            document.write(this.username + ' is logging.<br/>');
+        }
+    }
+    class Admin extends User{
+        logging()
+        {
+            super.logging()
+            document.write('The user is the admin.<br/>');
+        }
+    }
+    const user = new Admin('huangjiasheng');
+    user.logging(); // animal makes a noise.
+</script>
