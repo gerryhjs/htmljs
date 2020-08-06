@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <web-view src="https://mcstest.starnetuc.cn:8443/wss/"></web-view>
+</view>
