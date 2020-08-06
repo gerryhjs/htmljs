@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ca2e6d3-9e2b-4080-9b86-dce4e3586f2f" name="Default Changelist" comment="" />
+    <list default="true" id="0ca2e6d3-9e2b-4080-9b86-dce4e3586f2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webrtc_exmaple/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webrtc_exmaple/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webrtc_exmaple/dist/wss.js" beforeDir="false" afterPath="$PROJECT_DIR$/webrtc_exmaple/dist/wss.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596693796054</updated>
-      <workItem from="1596693797699" duration="1527000" />
+      <workItem from="1596693797699" duration="2748000" />
     </task>
     <servers />
   </component>

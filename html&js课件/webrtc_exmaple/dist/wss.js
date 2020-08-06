@@ -1,9 +1,10 @@
-
-var keypath = '/home/mcs/ssl/ap_ssl.key';//我把秘钥文件放在运行命令的目录下测试
-var certpath = '/home/mcs/ssl/ap_ssl.crt';//console.log(keypath);
+//这里指定https的秘钥相关配置
+var keypath = '/home/mcs/ssl/ap_ssl.key';
+var certpath = '/home/mcs/ssl/ap_ssl.crt';
 //console.log(certpath);
 var wsConnect1;
 var wsConnect2;
+//js的require用来加载特定的模块
 var fs=require('fs');
 var https=require('https');
 var ws=require('ws');
