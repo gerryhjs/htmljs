@@ -3,13 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="0ca2e6d3-9e2b-4080-9b86-dce4e3586f2f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webrtc_exmaple/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webrtc_exmaple/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webrtc_exmaple/dist/wss.js" beforeDir="false" afterPath="$PROJECT_DIR$/webrtc_exmaple/dist/wss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html&amp;js.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/html&amp;js.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webrtc_exmaple/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webrtc_exmaple/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -41,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596693796054</updated>
-      <workItem from="1596693797699" duration="2748000" />
+      <workItem from="1596693797699" duration="6047000" />
     </task>
     <servers />
   </component>
