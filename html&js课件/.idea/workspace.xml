@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ssrc_change" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,7 +46,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596693796054</updated>
-      <workItem from="1596693797699" duration="7507000" />
+      <workItem from="1596693797699" duration="8784000" />
+      <workItem from="1597628382235" duration="625000" />
+      <workItem from="1597647711872" duration="1197000" />
     </task>
     <servers />
   </component>
@@ -58,5 +60,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="432" y="6" key="CommitChangelistDialog2/0.0.1920.1040/1920.532.1536.824@0.0.1920.1040" timestamp="1596694615342" />
+    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1597628408259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1597628408259" />
   </component>
 </project>
