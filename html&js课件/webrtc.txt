@@ -1,0 +1,6 @@
+webrtcdemo
+ssh -p 8822 mcu@mcstest.starnetuc.cn (istar002396)
+sudo -i
+cd /root/nodeWss
+node wss.js
+https://mcstest.starnetuc.cn:8443/wss/

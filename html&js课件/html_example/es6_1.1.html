@@ -1,0 +1,13 @@
+<script>
+    var output = 'input=false';
+    function test(input) {
+        if (input) {
+            var output = 'input=true';
+            return output;
+        }
+        return output;
+    }
+    document.write(test(false));
+    document.write("<br/>");
+    document.write(test(true));
+</script>

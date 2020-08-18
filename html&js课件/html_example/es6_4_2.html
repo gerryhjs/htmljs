@@ -1,0 +1,8 @@
+<script>
+    //ES6利用解构取参数值
+    const xiamen = {Country: 'China',Province: 'Fujian', City: 'Xiamen'};
+    function getLocationDetail({ Country,Province, City }) {
+        return `${Country}-${Province}-${City}`;
+    }
+    document.write(getLocationDetail(xiamen));
+</script>
